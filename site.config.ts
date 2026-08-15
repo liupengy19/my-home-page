@@ -9,15 +9,15 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Pengyu Liu\'s Homepage',
+  name: "Pengyu Liu's Homepage",
   domain: 'www.pengyuliu.me',
   author: 'Pengyu Liu',
 
   // open graph metadata (optional)
-  description: 'Pengyu Liu\'s Homepage',
+  description: "Pengyu Liu's Homepage",
 
   // social usernames (optional)
-//   twitter: 'transitive_bs',
+  //   twitter: 'transitive_bs',
   github: 'liupengy19',
   linkedin: 'pengyu-liu-43a9a0208',
   email: 'pengyul@andrew.cmu.edu',
